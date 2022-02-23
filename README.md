@@ -1,5 +1,6 @@
 # CSC427 Winter 2022 - Metasploit Lab
-Original VM By: Rapid7
+Original VM (Metasploitable 2) By: Rapid7
+
 Modified VM By: Josh Alexander, Brandon Elefano
 
 
