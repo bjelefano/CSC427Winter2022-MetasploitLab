@@ -12,4 +12,4 @@ Run the following commands to assemble the virtual machine:
     sh makeVM.sh
 The virtual machine is now ready to be imported into VirtualBox!
 
-Refer to the handout for further instructions.
+Refer to the handout (CSC427_Lab_Instructions.pdf) for further instructions.
