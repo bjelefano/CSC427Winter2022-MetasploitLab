@@ -1,4 +1,8 @@
 # CSC427 Winter 2022 - Metasploit Lab
+Original VM By: Rapid7
+Modified VM By: Josh Alexander, Brandon Elefano
+
+
 
 ## Setup
 Run the following commands to assemble the virtual machine:
